@@ -1,0 +1,1 @@
+xballspeed *= -1;

@@ -1,0 +1,1 @@
+yballspeed *= -1;
